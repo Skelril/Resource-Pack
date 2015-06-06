@@ -1,7 +1,7 @@
 {
   "parent": "builtin/generated",
   "textures": {
-    "layer0": "skree:items/crystallizedDiamond"
+    "layer0": "skree:items/seaCrystal"
   },
   "display": {
     "thirdperson": {
