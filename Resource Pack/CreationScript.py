@@ -4,7 +4,7 @@ from datetime import datetime
 
 date = datetime.today()
 
-zipFilename = "Test Pack (" + str(date.month) + "-" + str(date.day) + "-" + str(date.year) + " " + str(date.hour) + ":" + str(date.minute) + ").zip"
+zipFilename = "Test Pack (" + str(date.month) + "-" + str(date.day) + "-" + str(date.year) + "-" + str(date.hour) + "-" + str(date.minute) + "-" + str(date.second) +").zip"
 
 with zipfile.ZipFile(zipFilename, "w") as myzip:
     for dir, subdirs, files in os.walk("../Primary/assets"):
