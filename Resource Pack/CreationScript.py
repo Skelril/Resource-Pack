@@ -13,7 +13,10 @@ class Settings:
         self.autoCopyConstantName = autoCopy['constant name']
         self.autoCopyResourceDirectory = autoCopy['resource pack directory']
 
-settings = Settings(json.load(open('script-settings.json')))
+if not os.path.isfile('custom-settings.json'):
+    shutil.copyfile('default-settings.json', 'custom-settings.json')
+
+settings = Settings(json.load(open('custom-settings.json')))
 
 date = datetime.today()
 
