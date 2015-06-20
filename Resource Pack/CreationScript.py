@@ -54,7 +54,7 @@ if settings.alwaysRemoveOld:
 else:
     clearFiles = input("Remove old resource packs? [y/N] ")
     if clearFiles.lower() == 'y':
-        removedOld = True
+        removeOld = True
 
 if removeOld:
     for file in os.listdir():
