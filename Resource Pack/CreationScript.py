@@ -1,6 +1,22 @@
 import os
+import re
+import json
+import shutil
 import zipfile
 from datetime import datetime
+
+class Settings:
+    def __init__(self, json):
+        self.alwaysRemoveOld = json['removal']['always']
+        autoCopy = json['auto copy']
+        self.autoCopyEnabled = autoCopy['enabled']
+        self.autoCopyConstantName = autoCopy['constant name']
+        self.autoCopyResourceDirectory = autoCopy['resource pack directory']
+
+if not os.path.isfile('custom-settings.json'):
+    shutil.copyfile('default-settings.json', 'custom-settings.json')
+
+settings = Settings(json.load(open('custom-settings.json')))
 
 date = datetime.today()
 
@@ -17,3 +33,33 @@ with zipfile.ZipFile(zipFilename, "w") as myzip:
     myzip.close()
 
 print("Resource pack generated successfully as '" + zipFilename + "'!")
+
+# Auto copy
+
+if settings.autoCopyEnabled:
+    newFile = settings.autoCopyResourceDirectory + "/"
+    if len(settings.autoCopyConstantName) > 0:
+        newFile += settings.autoCopyConstantName
+    else:
+        newFile += zipFilename
+
+    shutil.copyfile(zipFilename, newFile)
+    print("File copied to your resource pack directory!")
+
+# Old file removal
+
+removeOld = False
+if settings.alwaysRemoveOld:
+    removeOld = True
+else:
+    clearFiles = input("Remove old resource packs? [y/N] ")
+    if clearFiles.lower() == 'y':
+        removeOld = True
+
+if removeOld:
+    for file in os.listdir():
+        if file == zipFilename:
+            continue
+        if re.match("Test Pack \(.*\)\.zip", file):
+            os.remove(file)
+            print(file + " removed!")
