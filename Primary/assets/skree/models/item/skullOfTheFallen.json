@@ -1,7 +1,7 @@
 {
     "parent": "builtin/generated",
     "textures": {
-        "layer0": "minecraft:items/bone"
+        "layer0": "skree:items/skullOfTheFallen"
     },
     "display": {
         "thirdperson": {
