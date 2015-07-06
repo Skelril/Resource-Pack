@@ -1,7 +1,7 @@
 {
     "parent": "builtin/generated",
     "textures": {
-        "layer0": "skree:items/redFeather"
+        "layer0": "skree:items/blood_diamond"
     },
     "display": {
         "thirdperson": {

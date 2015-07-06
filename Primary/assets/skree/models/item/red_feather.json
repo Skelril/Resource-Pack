@@ -1,7 +1,7 @@
 {
     "parent": "builtin/generated",
     "textures": {
-        "layer0": "skree:items/skullOfTheFallen"
+        "layer0": "skree:items/red_feather"
     },
     "display": {
         "thirdperson": {

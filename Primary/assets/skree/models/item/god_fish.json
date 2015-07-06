@@ -1,7 +1,7 @@
 {
     "parent": "builtin/generated",
     "textures": {
-        "layer0": "skree:items/godFish"
+        "layer0": "skree:items/god_fish"
     },
     "display": {
         "thirdperson": {
@@ -16,4 +16,3 @@
         }
     }
 }
-
