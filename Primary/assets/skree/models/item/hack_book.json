@@ -1,7 +1,7 @@
 {
   "parent": "builtin/generated",
   "textures": {
-    "layer0": "skree:items/hackBook"
+    "layer0": "skree:items/hack_book"
   },
   "display": {
     "thirdperson": {

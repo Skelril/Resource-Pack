@@ -3,20 +3,10 @@ import re
 import json
 import shutil
 import zipfile
+from Settings import *
 from datetime import datetime
 
-class Settings:
-    def __init__(self, json):
-        self.alwaysRemoveOld = json['removal']['always']
-        autoCopy = json['auto copy']
-        self.autoCopyEnabled = autoCopy['enabled']
-        self.autoCopyConstantName = autoCopy['constant name']
-        self.autoCopyResourceDirectory = autoCopy['resource pack directory']
-
-if not os.path.isfile('custom-settings.json'):
-    shutil.copyfile('default-settings.json', 'custom-settings.json')
-
-settings = Settings(json.load(open('custom-settings.json')))
+settings = findOrInitSettings()
 
 date = datetime.today()
 
@@ -34,16 +24,14 @@ with zipfile.ZipFile(zipFilename, "w") as myzip:
 
 print("Resource pack generated successfully as '" + zipFilename + "'!")
 
-# Auto copy
+# Live patching
 
-if settings.autoCopyEnabled:
-    newFile = settings.autoCopyResourceDirectory + "/"
-    if len(settings.autoCopyConstantName) > 0:
-        newFile += settings.autoCopyConstantName
-    else:
-        newFile += zipFilename
+if settings.livePatching:
+    newDir = settings.MCPackDirectory + '/' + settings.livePatchingPack
 
-    shutil.copyfile(zipFilename, newFile)
+    shutil.rmtree(newDir, True)
+    shutil.copytree('../Primary/assets', newDir + '/assets')
+    shutil.copyfile('./Dependencies/pack.mcmeta', newDir + '/pack.mcmeta')
     print("File copied to your resource pack directory!")
 
 # Old file removal

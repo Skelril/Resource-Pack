@@ -1,34 +1,23 @@
 import os
 import json
+from Settings import *
 
 print("This script will configure the Creation Script for you!")
 
+settings = findOrInitSettings()
+
 response = input("Would you like the script to automatically remove old files? [y/N] ")
-removeAlways = response.lower() == "y"
+settings.alwaysRemoveOld = response.lower() == "y"
 
 response = input("Would you like the script to automatically create a copy of the generated texture pack in your resource pack's directory? [y/N] ")
-autoCopyEnabled = response.lower() == "y"
+settings.livePatching = response.lower() == "y"
 
-if autoCopyEnabled:
-    response = input("What would you like the generated file to be called (in your resource pack directory)? [blank for generated file name]\n")
-    autoCopyConstantName = response
+if settings.livePatching:
+    response = input("What would you like to name the generated resource pack? [blank for generated file name]\n")
+    if len(response) > 0:
+        settings.livePatchingPack = response
+
     response = input("What is the full path of your MineCraft directory?\n")
-    autoCopyResourceDirectory = response
-else:
-    autoCopyConstantName = "Skelril Test Pack.zip"
-    autoCopyResourceDirectory = ""
+    settings.MCPackDirectory = response
 
-open("custom-settings.json", 'w').write(
-    json.dumps(
-        {
-            "removal" : {
-                "always" : removeAlways
-            },
-            "auto copy" : {
-                "enabled" : autoCopyEnabled,
-                "constant name" : autoCopyConstantName,
-                "resource pack directory" : autoCopyResourceDirectory
-            }
-        }
-    )
-)
+saveSettings(settings)

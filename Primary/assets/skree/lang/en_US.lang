@@ -1,13 +1,18 @@
-item.skree_hackBook.name=Hack Book
-item.skree_swordOGreatPain.name=Sword o' Great Pain
+item.skree_hack_book.name=Hack Book
+item.skree_sword_o_great_pain.name=Sword o' Great Pain
 
-item.skree_bloodDiamond.name=Blood Diamond
-item.skree_seaCrystal.name=Sea Crystal
+item.skree_blood_diamond.name=Blood Diamond
+item.skree_sea_crystal.name=Sea Crystal
 
-item.skree_godFish.name=Raw God Fish
-item.skree_cookedGodFish.name=Cooked God Fish
+item.skree_god_fish.name=Raw God Fish
+item.skree_cooked_god_fish.name=Cooked God Fish
 
-item.skree_swordCrystal.name=Crystal Sword
-item.skree_redFeather.name=Red Feather
+item.skree_crystal_sword.name=Crystal Sword
+item.skree_red_feather.name=Red Feather
+
+item.skree_crystal_axe.name=Crystal Axe
+item.skree_crystal_hoe.name=Crystal Hoe
+item.skree_crystal_pickaxe.name=Crystal Pickaxe
+item.skree_crystal_shovel.name=Crystal Shovel
 item.skree_luminositor.name=Luminositor
-item.skree_skullOfTheFallen.name=Skull Of The Fallen
+item.skree_skull_of_the_fallen.name=Skull Of The Fallen
