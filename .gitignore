@@ -1,3 +1,4 @@
 *.directory
 Resource\ Pack/*.zip
 Resource\ Pack/custom-settings.json
+__pycache__*
