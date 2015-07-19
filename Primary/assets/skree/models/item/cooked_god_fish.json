@@ -1,7 +1,7 @@
 {
     "parent": "builtin/generated",
     "textures": {
-        "layer0": "minecraft:items/fish_cod_cooked"
+        "layer0": "skree:items/cooked_god_fish"
     },
     "display": {
         "thirdperson": {

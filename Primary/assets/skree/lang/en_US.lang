@@ -1,6 +1,15 @@
 item.skree_hack_book.name=Hack Book
 item.skree_sword_o_great_pain.name=Sword o' Great Pain
 
+item.skree_testril_coffer.name=Testril Coffer
+item.skree_aquis_coffer.name=Aquis Coffer
+item.skree_marsinco_coffer.name=Marsinco Coffer
+item.skree_postre_coffer.name=Postre Coffer
+item.skree_eqesta_coffer.name=Eqesta Coffer
+item.skree_redistral_coffer.name=Redistral Coffer
+item.skree_retesrum_coffer.name=Retesrum Coffer
+item.skree_mesardith_coffer.name=Mesardith Cofer
+
 item.skree_blood_diamond.name=Blood Diamond
 item.skree_sea_crystal.name=Sea Crystal
 
