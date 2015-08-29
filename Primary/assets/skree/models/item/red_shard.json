@@ -1,7 +1,7 @@
 {
     "parent": "builtin/generated",
     "textures": {
-        "layer0": "items/redstone_dust"
+        "layer0": "skree:items/red_shard"
     },
     "display": {
         "thirdperson": {
