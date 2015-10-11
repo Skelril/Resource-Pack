@@ -1,5 +1,6 @@
 {
     "textures": {
+        "particle": "skree:blocks/grave_stone",
         "texture": "skree:blocks/grave_stone"
     },
     "elements": [
