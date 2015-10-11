@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "skree:grave_stone" },
+        "facing=west": { "model": "skree:grave_stone", "y": 90 },
+        "facing=north": { "model": "skree:grave_stone", "y": 180 },
+        "facing=east": { "model": "skree:grave_stone", "y": 270 }
+    }
+}
