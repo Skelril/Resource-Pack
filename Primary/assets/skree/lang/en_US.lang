@@ -14,12 +14,16 @@ item.skree_blood_diamond.name=Blood Diamond
 item.skree_sea_crystal.name=Sea Crystal
 
 item.skree_red_shard.name=Red Shard
+item.skree_fairy_dust.name=Fairy Dust
 
 item.skree_god_fish.name=Raw God Fish
 item.skree_cooked_god_fish.name=Cooked God Fish
 
 item.skree_crystal_sword.name=Crystal Sword
 item.skree_red_feather.name=Red Feather
+
+item.skree_zone_master_orb.name=Olympian Orb
+item.skree_zone_slave_orb.name=Cosmos Orb
 
 item.skree_crystal_axe.name=Crystal Axe
 item.skree_crystal_hoe.name=Crystal Hoe
@@ -29,3 +33,5 @@ item.skree_luminositor.name=Luminositor
 item.skree_skull_of_the_fallen.name=Skull Of The Fallen
 
 tile.skree_grave_stone.name=Grave Stone
+tile.skree_magic_mushroom.name=Magic Mushroom
+tile.skree_magic_stone.name=Magic Stone
