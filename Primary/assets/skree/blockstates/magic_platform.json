@@ -1,5 +1,5 @@
 {
     "variants": {
-        "normal": { "model": "magic_platform" }
+        "normal": { "model": "skree:magic_platform" }
     }
 }
