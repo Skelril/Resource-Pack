@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "skree:magic_ladder" },
+        "facing=east":  { "model": "skree:magic_ladder", "y": 90 },
+        "facing=south": { "model": "skree:magic_ladder", "y": 180 },
+        "facing=west":  { "model": "skree:magic_ladder", "y": 270 }
+    }
+}
