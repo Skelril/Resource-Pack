@@ -1,7 +1,7 @@
 {
     "parent": "builtin/generated",
     "textures": {
-        "layer0": "skree:blocks/magic_ladder"
+        "layer0": "skree:items/ender_focus"
     },
     "display": {
         "thirdperson": {

@@ -13,6 +13,7 @@ item.skree_mesardith_coffer.name=Mesardith Coffer
 item.skree_blood_diamond.name=Blood Diamond
 item.skree_sea_crystal.name=Sea Crystal
 
+item.skree_ender_focus.name=Ender Focus
 item.skree_red_shard.name=Red Shard
 item.skree_fairy_dust.name=Fairy Dust
 
@@ -27,14 +28,26 @@ item.skree_broken_glass.name=Broken Glass
 item.skree_zone_master_orb.name=Olympian Orb
 item.skree_zone_slave_orb.name=Cosmos Orb
 
+item.skree_wooden_terragu.name=Wooden Terragu
+item.skree_stone_terragu.name=Stone Terragu
+item.skree_iron_terragu.name=Iron Terragu
+item.skree_golden_terragu.name=Golden Terragu
+item.skree_diamond_terragu.name=Diamond Terragu
+item.skree_crystal_terragu.name=Crystal Terragu
+
 item.skree_crystal_axe.name=Crystal Axe
 item.skree_crystal_hoe.name=Crystal Hoe
 item.skree_crystal_pickaxe.name=Crystal Pickaxe
 item.skree_crystal_shovel.name=Crystal Shovel
+
+item.skree_focus_teleporter.name=Focus Teleporter
+item.skree_hymn_of_summation.name=Hymn of Summation
 item.skree_luminositor.name=Luminositor
+item.skree_scroll_of_summation.name=Scroll of Summation
 item.skree_skull_of_the_fallen.name=Skull Of The Fallen
 
 tile.skree_magic_ladder.name=Magic Ladder
+tile.skree_magic_platform.name=Magic Platform
 
 tile.skree_grave_stone.name=Grave Stone
 tile.skree_magic_mushroom.name=Magic Mushroom
