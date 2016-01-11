@@ -43,6 +43,7 @@ item.skree_broken_glass.name=Broken Glass
 
 item.skree_zone_master_orb.name=Olympian Orb
 item.skree_zone_slave_orb.name=Cosmos Orb
+item.skree_zone_transitional_orb.name=Transmos Orb
 
 item.skree_wooden_terragu.name=Wooden Terragu
 item.skree_stone_terragu.name=Stone Terragu
@@ -58,6 +59,7 @@ item.skree_crystal_axe.name=Crystal Axe
 item.skree_jurack_hoe.name=Jurack Hoe
 item.skree_crystal_hoe.name=Crystal Hoe
 
+item.skree_hardened_diamond_pickaxe.name=Hardened Diamond Pickaxe
 item.skree_jurack_pickaxe.name=Jurack Pickaxe
 item.skree_crystal_pickaxe.name=Crystal Pickaxe
 
@@ -67,6 +69,7 @@ item.skree_crystal_shovel.name=Crystal Shovel
 item.skree_focus_teleporter.name=Focus Teleporter
 item.skree_hymn_of_summation.name=Hymn of Summation
 item.skree_luminositor.name=Luminositor
+item.skree_nether_bowl.name=Nether Bowl
 item.skree_scroll_of_summation.name=Scroll of Summation
 item.skree_skull_of_the_fallen.name=Skull Of The Fallen
 
