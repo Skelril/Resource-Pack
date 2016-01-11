@@ -10,6 +10,7 @@ item.skree_redistral_coffer.name=Redistral Coffer
 item.skree_retesrum_coffer.name=Retesrum Coffer
 item.skree_mesardith_coffer.name=Mesardith Coffer
 
+item.skree_jurack.name=Jurack
 item.skree_blood_diamond.name=Blood Diamond
 item.skree_sea_crystal.name=Sea Crystal
 
@@ -20,8 +21,22 @@ item.skree_fairy_dust.name=Fairy Dust
 item.skree_god_fish.name=Raw God Fish
 item.skree_cooked_god_fish.name=Cooked God Fish
 
+item.skree_jurack_helmet.name=Jurack Helmet
+item.skree_jurack_chestplate.name=Jurack Chestplate
+item.skree_jurack_leggings.name=Jurack Leggings
+item.skree_jurack_boots.name=Jurack Boots
+
+item.skree_crystal_helmet.name=Crystal Helmet
+item.skree_crystal_chestplate.name=Crystal Chestplate
+item.skree_crystal_leggings.name=Crystal Leggings
+item.skree_crystal_boots.name=Crystal Boots
+
+item.skree_nether_bow.name=Nether Bow
+
+item.skree_jurack_sword.name=Jurack Sword
 item.skree_crystal_sword.name=Crystal Sword
 item.skree_two_tailed_sword.name=Two Tailed Sword
+
 item.skree_red_feather.name=Red Feather
 
 item.skree_broken_glass.name=Broken Glass
@@ -34,11 +49,19 @@ item.skree_stone_terragu.name=Stone Terragu
 item.skree_iron_terragu.name=Iron Terragu
 item.skree_golden_terragu.name=Golden Terragu
 item.skree_diamond_terragu.name=Diamond Terragu
+item.skree_jurack_terragu.name=Jurack Terragu
 item.skree_crystal_terragu.name=Crystal Terragu
 
+item.skree_jurack_axe.name=Jurack Axe
 item.skree_crystal_axe.name=Crystal Axe
+
+item.skree_jurack_hoe.name=Jurack Hoe
 item.skree_crystal_hoe.name=Crystal Hoe
+
+item.skree_jurack_pickaxe.name=Jurack Pickaxe
 item.skree_crystal_pickaxe.name=Crystal Pickaxe
+
+item.skree_jurack_shovel.name=Jurack Shovel
 item.skree_crystal_shovel.name=Crystal Shovel
 
 item.skree_focus_teleporter.name=Focus Teleporter
@@ -51,5 +74,8 @@ tile.skree_magic_ladder.name=Magic Ladder
 tile.skree_magic_platform.name=Magic Platform
 
 tile.skree_grave_stone.name=Grave Stone
+
+tile.skree_jurack_ore.name=Jurack Ore
+
 tile.skree_magic_mushroom.name=Magic Mushroom
 tile.skree_magic_stone.name=Magic Stone

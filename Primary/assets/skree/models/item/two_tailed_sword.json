@@ -1,7 +1,7 @@
 {
   "parent": "builtin/generated",
   "textures": {
-    "layer0": "skree:items/sword_o_great_pain"
+    "layer0": "skree:items/two_tailed_sword"
   },
   "display": {
     "thirdperson": {
