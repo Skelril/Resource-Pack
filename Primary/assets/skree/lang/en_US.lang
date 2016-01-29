@@ -1,6 +1,9 @@
 item.skree_hack_book.name=Hack Book
 item.skree_sword_o_great_pain.name=Sword o' Great Pain
 
+item.skree_gold_rush_key.gold_rush_red_key.name=Red Key
+item.skree_gold_rush_key.gold_rush_blue_key.name=Blue Key
+
 item.skree_testril_coffer.name=Testril Coffer
 item.skree_aquis_coffer.name=Aquis Coffer
 item.skree_marsinco_coffer.name=Marsinco Coffer
