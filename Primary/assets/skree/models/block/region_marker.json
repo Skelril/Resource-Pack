@@ -1,0 +1,21 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "blocks/glass_lime",
+        "glass": "blocks/glass_lime"
+    },
+    "elements": [
+        {   "__comment": "Marker core texture",
+            "from": [ 3, 3, 3 ],
+            "to": [ 13, 14, 13 ],
+            "faces": {
+                "down":  { "uv": [ 3, 3, 13, 13 ], "texture": "#glass" },
+                "up":    { "uv": [ 3, 3, 13, 13 ], "texture": "#glass" },
+                "north": { "uv": [ 3, 2, 13, 13 ], "texture": "#glass" },
+                "south": { "uv": [ 3, 2, 13, 13 ], "texture": "#glass" },
+                "west":  { "uv": [ 3, 2, 13, 13 ], "texture": "#glass" },
+                "east":  { "uv": [ 3, 2, 13, 13 ], "texture": "#glass" }
+            }
+        }
+    ]
+}

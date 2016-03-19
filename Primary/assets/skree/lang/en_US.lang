@@ -74,9 +74,15 @@ item.skree_focus_teleporter.name=Focus Teleporter
 item.skree_hymn_of_summation.name=Hymn of Summation
 item.skree_luminositor.name=Luminositor
 item.skree_nether_bowl.name=Nether Bowl
+item.skree_phantom_hymn.name=Phantom Clock
 item.skree_phantom_hymn.name=Phantom Hymn
 item.skree_scroll_of_summation.name=Scroll of Summation
 item.skree_skull_of_the_fallen.name=Skull Of The Fallen
+
+tile.skree_pitfall.name=Vanishing Tile
+
+tile.skree_region_master.name=Shield Generator
+tile.skree_region_marker.name=Shield Bounding Marker
 
 tile.skree_magic_ladder.name=Magic Ladder
 tile.skree_magic_platform.name=Magic Platform
