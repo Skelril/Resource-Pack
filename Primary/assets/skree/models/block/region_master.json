@@ -3,7 +3,7 @@
     "textures": {
         "particle": "blocks/glass",
         "glass": "blocks/glass",
-        "core": "blocks/gold"
+        "core": "blocks/gold_block"
     },
     "elements": [
         {   "__comment": "Glass shell",
