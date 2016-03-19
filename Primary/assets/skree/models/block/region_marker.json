@@ -1,20 +1,18 @@
 {
-    "ambientocclusion": false,
     "textures": {
         "particle": "blocks/glass_lime",
-        "glass": "blocks/glass_lime"
+        "texture": "blocks/glass_lime"
     },
     "elements": [
-        {   "__comment": "Marker core texture",
-            "from": [ 3, 3, 3 ],
-            "to": [ 13, 14, 13 ],
+        {   "from": [ 2, 2, 2 ],
+            "to": [ 14, 14, 14 ],
             "faces": {
-                "down":  { "uv": [ 3, 3, 13, 13 ], "texture": "#glass" },
-                "up":    { "uv": [ 3, 3, 13, 13 ], "texture": "#glass" },
-                "north": { "uv": [ 3, 2, 13, 13 ], "texture": "#glass" },
-                "south": { "uv": [ 3, 2, 13, 13 ], "texture": "#glass" },
-                "west":  { "uv": [ 3, 2, 13, 13 ], "texture": "#glass" },
-                "east":  { "uv": [ 3, 2, 13, 13 ], "texture": "#glass" }
+                "down":  { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+                "up":    { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+                "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+                "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+                "west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+                "east":  { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
             }
         }
     ]
