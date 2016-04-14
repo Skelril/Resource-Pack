@@ -1,6 +1,10 @@
 item.skree_hack_book.name=Hack Book
 item.skree_sword_o_great_pain.name=Sword o' Great Pain
 
+item.skree_gold_rush_key.gold_rush_red_key.name=Red Key
+item.skree_gold_rush_key.gold_rush_blue_key.name=Blue Key
+item.skree_prize_box.name=Prize Box
+
 item.skree_testril_coffer.name=Testril Coffer
 item.skree_aquis_coffer.name=Aquis Coffer
 item.skree_marsinco_coffer.name=Marsinco Coffer
@@ -70,8 +74,15 @@ item.skree_focus_teleporter.name=Focus Teleporter
 item.skree_hymn_of_summation.name=Hymn of Summation
 item.skree_luminositor.name=Luminositor
 item.skree_nether_bowl.name=Nether Bowl
+item.skree_phantom_clock.name=Phantom Clock
+item.skree_phantom_hymn.name=Phantom Hymn
 item.skree_scroll_of_summation.name=Scroll of Summation
 item.skree_skull_of_the_fallen.name=Skull Of The Fallen
+
+tile.skree_pitfall.name=Vanishing Tile
+
+tile.skree_region_master.name=Shield Generator
+tile.skree_region_marker.name=Shield Bounding Marker
 
 tile.skree_magic_ladder.name=Magic Ladder
 tile.skree_magic_platform.name=Magic Platform
