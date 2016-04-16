@@ -18,9 +18,20 @@ item.skree_jurack.name=Jurack
 item.skree_blood_diamond.name=Blood Diamond
 item.skree_sea_crystal.name=Sea Crystal
 
+item.skree_ancient_ingot.name=Ancient Ingot
+item.skree_ancient_metal_fragment.name=Ancient Metal Fragment
+item.skree_demonic_blade.name=Demonic Blade
+item.skree_demonic_hilt.name=Demonic Hilt
+item.skree_demonic_ingot.name=Demonic Ingot
+item.skree_emblem_of_hallow.name=Emblem of Hallow
+item.skree_emblem_of_the_forge.name=Emblem of The Forge
 item.skree_ender_focus.name=Ender Focus
 item.skree_red_shard.name=Red Shard
 item.skree_fairy_dust.name=Fairy Dust
+item.skree_holy_blade.name=Holy Blade
+item.skree_holy_hilt.name=Holy Hilt
+item.skree_holy_ingot.name=Holy Ingot
+item.skree_unstable_catalyst.name=Unstable Catalyst
 
 item.skree_god_fish.name=Raw God Fish
 item.skree_cooked_god_fish.name=Cooked God Fish
@@ -35,7 +46,33 @@ item.skree_crystal_chestplate.name=Crystal Chestplate
 item.skree_crystal_leggings.name=Crystal Leggings
 item.skree_crystal_boots.name=Crystal Boots
 
+item.skree_guardian_helmet.name=Guardian Helmet
+item.skree_guardian_chestplate.name=Guardian Chestplate
+item.skree_guardian_leggings.name=Guardian Leggings
+item.skree_guardian_boots.name=Guardian Boots
+
+item.skree_divine_helmet.name=Divine Helmet
+item.skree_divine_chestplate.name=Divine Chestplate
+item.skree_divine_leggings.name=Divine Leggings
+item.skree_divine_boots.name=Divine Boots
+
+item.skree_tormentor_helmet.name=Tormentor Helmet
+item.skree_tormentor_chestplate.name=Tormentor Chestplate
+item.skree_tormentor_leggings.name=Tormentor Leggings
+item.skree_tormentor_boots.name=Tormentor Boots
+
+item.skree_wraith_helmet.name=Wraith Helmet
+item.skree_wraith_chestplate.name=Wraith Chestplate
+item.skree_wraith_leggings.name=Wraith Leggings
+item.skree_wraith_boots.name=Wraith Boots
+
 item.skree_nether_bow.name=Nether Bow
+
+item.skree_demonic_sword.name=Demonic Sword
+item.skree_holy_sword.name=Holy Sword
+
+item.skree_fear_sword.name=Fear Sword
+item.skree_unleashed_sword.name=Unleashed Sword
 
 item.skree_jurack_sword.name=Jurack Sword
 item.skree_crystal_sword.name=Crystal Sword
@@ -73,6 +110,7 @@ item.skree_crystal_shovel.name=Crystal Shovel
 item.skree_focus_teleporter.name=Focus Teleporter
 item.skree_hymn_of_summation.name=Hymn of Summation
 item.skree_luminositor.name=Luminositor
+item.skree_magic_wand.name=Magic Wand
 item.skree_nether_bowl.name=Nether Bowl
 item.skree_phantom_clock.name=Phantom Clock
 item.skree_phantom_hymn.name=Phantom Hymn
