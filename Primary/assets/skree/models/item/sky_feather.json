@@ -1,7 +1,7 @@
 {
-    "parent": "builtin/clock",
+    "parent": "builtin/generated",
     "textures": {
-        "layer0": "skree:items/phantom_clock"
+        "layer0": "items/feather"
     },
     "display": {
         "thirdperson": {
