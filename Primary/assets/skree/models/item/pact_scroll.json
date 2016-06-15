@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "skree:items/scroll_of_summation"
+        "layer0": "skree:items/pact_scroll"
     }
 }
