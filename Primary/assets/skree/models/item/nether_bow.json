@@ -30,7 +30,7 @@
             "predicate": {
                 "skree:pulling": 1
             },
-            "model": "skree:item/nether_bow_pulling_0"
+            "model": "skree:item/nether_bow_pulling_3"
         },
         {
             "predicate": {

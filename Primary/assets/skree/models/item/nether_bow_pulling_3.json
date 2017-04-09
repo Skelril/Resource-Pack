@@ -1,0 +1,6 @@
+{
+    "parent": "skree:item/nether_bow",
+    "textures": {
+        "layer0": "skree:items/nether_bow_pulling_0"
+    }
+}
