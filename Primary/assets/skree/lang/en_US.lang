@@ -69,6 +69,9 @@ item.skree_wraith_chestplate.name=Wraith Chestplate
 item.skree_wraith_leggings.name=Wraith Leggings
 item.skree_wraith_boots.name=Wraith Boots
 
+item.skree_bat_bow.name=Bat Bow
+item.skree_chicken_bow.name=Chicken Bow
+
 item.skree_nether_bow.name=Nether Bow
 
 item.skree_demonic_sword.name=Demonic Sword
