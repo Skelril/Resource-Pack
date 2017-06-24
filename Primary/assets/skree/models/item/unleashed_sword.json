@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "skree:items/holy_sword"
+    "layer0": "skree:items/unleashed_sword"
   }
 }
