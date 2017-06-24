@@ -3,7 +3,8 @@ item.skree_hack_book.name=Hack Book
 item.skree_navigation_wand.name=Navigation Wand
 item.skree_sword_o_great_pain.name=Sword o' Great Pain
 
-item.skree_gold_rush_key.name=Door Key
+item.skree_gold_rush_blue_key.name=Blue Door Key
+item.skree_gold_rush_red_key.name=Red Door Key
 item.skree_packaged_meat.name=Packaged Meat
 item.skree_prize_box.name=Prize Box
 item.skree_sky_feather.name=Sky Feather
