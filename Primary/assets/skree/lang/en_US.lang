@@ -25,6 +25,8 @@ item.skree_sea_crystal.name=Sea Crystal
 
 item.skree_ancient_ingot.name=Ancient Ingot
 item.skree_ancient_metal_fragment.name=Ancient Metal Fragment
+item.skree_cursed_string.name=Cursed String
+item.skree_demonic_bowstave.name=Demonic Bowstave
 item.skree_demonic_blade.name=Demonic Blade
 item.skree_demonic_hilt.name=Demonic Hilt
 item.skree_demonic_ingot.name=Demonic Ingot
@@ -33,6 +35,8 @@ item.skree_emblem_of_the_forge.name=Emblem of The Forge
 item.skree_ender_focus.name=Ender Focus
 item.skree_red_shard.name=Red Shard
 item.skree_fairy_dust.name=Fairy Dust
+item.skree_blessed_string.name=Blessed String
+item.skree_holy_bowstave.name=Holy Bowstave
 item.skree_holy_blade.name=Holy Blade
 item.skree_holy_hilt.name=Holy Hilt
 item.skree_holy_ingot.name=Holy Ingot
@@ -76,7 +80,9 @@ item.skree_chicken_bow.name=Chicken Bow
 
 item.skree_nether_bow.name=Nether Bow
 
+item.skree_demonic_bow.name=Demonic Bow
 item.skree_demonic_sword.name=Demonic Sword
+item.skree_holy_bow.name=Holy Bow
 item.skree_holy_sword.name=Holy Sword
 
 item.skree_fear_bow.name=Fear Bow
