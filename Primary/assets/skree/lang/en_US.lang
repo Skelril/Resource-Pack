@@ -79,7 +79,9 @@ item.skree_nether_bow.name=Nether Bow
 item.skree_demonic_sword.name=Demonic Sword
 item.skree_holy_sword.name=Holy Sword
 
+item.skree_fear_bow.name=Fear Bow
 item.skree_fear_sword.name=Fear Sword
+item.skree_unleashed_bow.name=Unleashed Bow
 item.skree_unleashed_sword.name=Unleashed Sword
 
 item.skree_jurack_sword.name=Jurack Sword
