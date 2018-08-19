@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "group": "skree:general_purpose",
+  "ingredients": [
+    {
+      "item": "skree:holy_blade"
+    },
+    {
+      "item": "skree:holy_hilt"
+    }
+  ],
+  "result": {
+    "item": "skree:holy_sword"
+  }
+}

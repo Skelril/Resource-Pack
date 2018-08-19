@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "group": "skree:general_purpose",
+  "ingredients": [
+    {
+      "item": "skree:unstable_catalyst"
+    },
+    {
+      "item": "skree:tormentor_leggings"
+    }
+  ],
+  "result": {
+    "item": "skree:wraith_leggings"
+  }
+}

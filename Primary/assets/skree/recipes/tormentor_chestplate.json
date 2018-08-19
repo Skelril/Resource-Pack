@@ -1,0 +1,17 @@
+{
+   "type": "crafting_shaped",
+   "group": "skree:general_purpose",
+   "pattern": [
+     "A A",
+     "AAA",
+     "AAA"
+   ],
+   "key": {
+     "A": {
+       "item": "skree:demonic_ingot"
+     }
+   },
+   "result": {
+     "item": "skree:tormentor_chestplate"
+   }
+ }

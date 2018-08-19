@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "group": "skree:general_purpose",
+  "ingredients": [
+    {
+      "item": "minecraft:fairy_dust"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "item": "skree:magic_wand"
+  }
+}

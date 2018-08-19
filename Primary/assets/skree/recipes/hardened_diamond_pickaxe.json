@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "group": "skree:general_purpose",
+  "pattern": [
+    "AAA",
+    " B "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:obsidian"
+    },
+    "B": {
+      "item": "minecraft:diamond_pickaxe"
+    }
+  },
+  "result": {
+    "item": "skree:hardened_diamond_pickaxe"
+  }
+}

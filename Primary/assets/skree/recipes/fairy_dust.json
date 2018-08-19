@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "group": "skree:general_purpose",
+  "ingredients": [
+    {
+      "item": "skree:magic_mushroom"
+    }
+  ],
+  "result": {
+    "item": "skree:fairy_dust"
+  }
+}

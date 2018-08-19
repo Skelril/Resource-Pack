@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shapeless",
+  "group": "skree:general_purpose",
+  "ingredients": [
+    {
+      "item": "skree:iron_pickaxe"
+    },
+    {
+      "item": "skree:iron_axe"
+    },
+    {
+      "item": "skree:iron_shovel"
+    },
+    {
+      "item": "skree:unstable_catalyst"
+    }
+  ],
+  "result": {
+    "item": "skree:iron_terragu"
+  }
+}

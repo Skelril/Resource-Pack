@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "group": "skree:zone_items",
+  "ingredients": [
+    {
+      "item": "skree:zone_master_orb"
+    }
+  ],
+  "result": {
+    "item": "skree:zone_transitional_orb",
+    "count": 8
+  }
+}

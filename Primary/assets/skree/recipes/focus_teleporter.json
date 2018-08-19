@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "group": "skree:general_purpose",
+  "pattern": [
+    "AAA",
+    "BCB",
+    "BBB"
+  ],
+  "key": {
+    "A": {
+      "item": "skree:red_shard"
+    },
+    "B": {
+      "item": "skree:sea_crystal"
+    },
+    "C": {
+      "item": "skree:ender_focus"
+    }
+  },
+  "result": {
+    "item": "skree:focus_teleporter"
+  }
+}

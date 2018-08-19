@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "group": "skree:general_purpose",
+  "ingredients": [
+    {
+      "item": "skree:demonic_blade"
+    },
+    {
+      "item": "skree:demonic_hilt"
+    }
+  ],
+  "result": {
+    "item": "skree:demonic_sword"
+  }
+}

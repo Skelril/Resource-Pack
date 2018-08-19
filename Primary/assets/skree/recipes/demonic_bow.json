@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "group": "skree:general_purpose",
+  "ingredients": [
+    {
+      "item": "skree:demonic_bowstave"
+    },
+    {
+      "item": "skree:cursed_string"
+    }
+  ],
+  "result": {
+    "item": "skree:demonic_bow"
+  }
+}

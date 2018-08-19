@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "group": "skree:general_purpose",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "skree:ancient_metal_fragment"
+    }
+  },
+  "result": {
+    "item": "skree:ancient_ingot"
+  }
+}

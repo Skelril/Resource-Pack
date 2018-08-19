@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "group": "skree:general_purpose",
+  "ingredients": [
+    {
+      "item": "skree:ancient_ingot"
+    },
+    {
+      "item": "skree:emblem_of_the_forge"
+    }
+  ],
+  "result": {
+    "item": "skree:holy_ingot"
+  }
+}

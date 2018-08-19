@@ -1,0 +1,17 @@
+{
+   "type": "crafting_shaped",
+   "group": "skree:general_purpose",
+   "pattern": [
+     "AAA",
+     "A A",
+     "A A"
+   ],
+   "key": {
+     "A": {
+       "item": "skree:holy_ingot"
+     }
+   },
+   "result": {
+     "item": "skree:guardian_leggings"
+   }
+ }

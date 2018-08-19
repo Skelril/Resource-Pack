@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "group": "skree:general_purpose",
+  "ingredients": [
+    {
+      "item": "skree:ancient_ingot"
+    },
+    {
+      "item": "skree:emblem_of_hallow"
+    }
+  ],
+  "result": {
+    "item": "skree:demonic_ingot"
+  }
+}

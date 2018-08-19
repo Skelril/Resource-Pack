@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "group": "skree:general_purpose",
+  "pattern": [
+    "AAA",
+    "A A",
+    "A A"
+  ],
+  "key": {
+    "A": {
+      "item": "skree:sea_crystal"
+    }
+  },
+  "result": {
+    "item": "skree:crystal_leggings"
+  }
+}

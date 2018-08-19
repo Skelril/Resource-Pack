@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "group": "skree:general_purpose",
+  "pattern": [
+    "ABA",
+    " C ",
+    " C "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "B": {
+      "item": "minecraft:redstone"
+    },
+    "C": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "skree:luminositor"
+  }
+}

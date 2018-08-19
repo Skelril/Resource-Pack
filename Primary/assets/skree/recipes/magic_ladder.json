@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shapeless",
+  "group": "skree:general_purpose",
+  "ingredients": [
+    {
+      "item": "minecraft:ladder"
+    },
+    {
+      "item": "skree:fairy_dust"
+    }
+  ],
+  "result": {
+    "item": "skree:magic_ladder",
+    "count": 3
+  }
+}

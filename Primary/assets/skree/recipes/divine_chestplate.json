@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "group": "skree:general_purpose",
+  "ingredients": [
+    {
+      "item": "skree:unstable_catalyst"
+    },
+    {
+      "item": "skree:guardian_chestplate"
+    }
+  ],
+  "result": {
+    "item": "skree:divine_chestplate"
+  }
+}

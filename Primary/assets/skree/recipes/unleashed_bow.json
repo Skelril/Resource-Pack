@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "group": "skree:general_purpose",
+  "ingredients": [
+    {
+      "item": "skree:holy_bow"
+    },
+    {
+      "item": "skree:unstable_catalyst"
+    }
+  ],
+  "result": {
+    "item": "skree:unleashed_bow"
+  }
+}

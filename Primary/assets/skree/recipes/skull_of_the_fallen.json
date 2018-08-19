@@ -1,0 +1,20 @@
+{
+  "type": "crafting_shaped",
+  "group": "skree:general_purpose",
+  "pattern": [
+    "BBB",
+    "BAB",
+    "B B"
+  ],
+  "key": {
+    "A": {
+      "item": "skree:blood_diamond"
+    },
+    "B": {
+      "item": "minecraft:bone"
+    }
+  },
+  "result": {
+    "item": "skree:skull_of_the_fallen"
+  }
+}

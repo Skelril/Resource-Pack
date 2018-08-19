@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "group": "skree:general_purpose",
+  "pattern": [
+    "AAA",
+    "A A"
+  ],
+  "key": {
+    "A": {
+      "item": "skree:demonic_ingot"
+    }
+  },
+  "result": {
+    "item": "skree:tormentor_helmet"
+  }
+}

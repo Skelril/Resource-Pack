@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "group": "skree:general_purpose",
+  "ingredients": [
+    {
+      "item": "skree:demonic_bow"
+    },
+    {
+      "item": "skree:unstable_catalyst"
+    }
+  ],
+  "result": {
+    "item": "skree:fear_bow"
+  }
+}

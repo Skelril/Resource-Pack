@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "group": "skree:general_purpose",
+  "ingredients": [
+    {
+      "item": "skree:unpackaged_meat"
+    }
+  ],
+  "result": {
+    "item": "skree:packaged_meat"
+  }
+}

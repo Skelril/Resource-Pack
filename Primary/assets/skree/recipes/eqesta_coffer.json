@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "group": "skree:currency",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "skree:postre_coffer"
+    }
+  },
+  "result": {
+    "item": "skree:eqesta_coffer"
+  }
+}

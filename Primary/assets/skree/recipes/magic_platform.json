@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "group": "skree:general_purpose",
+  "pattern": [
+    "AAA",
+    " B "
+  ],
+  "key": {
+    "A": {
+      "item": "skree:stick"
+    },
+    "B": {
+      "item": "skree:fairy_dust"
+    }
+  },
+  "result": {
+    "item": "skree:magic_platform"
+  }
+}

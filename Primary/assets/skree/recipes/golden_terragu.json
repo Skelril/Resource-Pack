@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shapeless",
+  "group": "skree:general_purpose",
+  "ingredients": [
+    {
+      "item": "skree:golden_pickaxe"
+    },
+    {
+      "item": "skree:golden_axe"
+    },
+    {
+      "item": "skree:golden_shovel"
+    },
+    {
+      "item": "skree:unstable_catalyst"
+    }
+  ],
+  "result": {
+    "item": "skree:golden_terragu"
+  }
+}

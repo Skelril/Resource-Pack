@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shapeless",
+  "group": "skree:general_purpose",
+  "ingredients": [
+    {
+      "item": "minecraft:clay"
+    },
+    {
+      "item": "skree:fairy_dust"
+    }
+  ],
+  "result": {
+    "item": "skree:pitfall",
+    "count": 3
+  }
+}

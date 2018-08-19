@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shaped",
+  "group": "skree:zone_items",
+  "pattern": [
+    "BBB",
+    "BAB",
+    "BBB"
+  ],
+  "key": {
+    "A": {
+      "item": "skree:fairy_dust"
+    },
+    "B": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "skree:zone_master_orb",
+    "count": 8
+  }
+}

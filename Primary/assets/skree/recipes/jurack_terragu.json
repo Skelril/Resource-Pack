@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shapeless",
+  "group": "skree:general_purpose",
+  "ingredients": [
+    {
+      "item": "skree:jurack_pickaxe"
+    },
+    {
+      "item": "skree:jurack_axe"
+    },
+    {
+      "item": "skree:jurack_shovel"
+    },
+    {
+      "item": "skree:unstable_catalyst"
+    }
+  ],
+  "result": {
+    "item": "skree:jurack_terragu"
+  }
+}

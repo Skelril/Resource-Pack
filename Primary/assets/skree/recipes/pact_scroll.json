@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "group": "skree:general_purpose",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "skree:red_shard"
+    }
+  ],
+  "result": {
+    "item": "skree:pact_scroll"
+  }
+}
